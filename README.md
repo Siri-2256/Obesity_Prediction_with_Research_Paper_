@@ -15,7 +15,7 @@ This project transforms academic research into a real-world deployable solution,
 This project is based on the published research paper:
 
 **“Enhancing Obesity Prediction with Explainable AI: A DeepHealthNet-Based Comparative Study”**
-
+https://ieeexplore.ieee.org/document/11348622/
 The focus of the research was not only high prediction accuracy but also **transparency, interpretability, and ethical AI usage in healthcare.**
 
 ---
@@ -53,6 +53,6 @@ The focus of the research was not only high prediction accuracy but also **trans
 - HTML / CSS
 
 ### Deployment
-- Netlify
+- Vercel
 
 
